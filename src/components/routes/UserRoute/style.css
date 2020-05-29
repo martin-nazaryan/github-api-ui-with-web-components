@@ -1,0 +1,42 @@
+.back-button {
+    background-color: transparent;
+    line-height: 1.5;
+    border: 1px solid #d1d5da;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    cursor: pointer;
+    margin-bottom: .5rem;
+}
+
+article {
+    border: 1px solid #d1d5da;
+    border-radius: .25rem;
+    padding: .75rem;
+}
+
+.repos-container article {
+    background-color: aliceblue;
+    margin-bottom: .5rem;
+}
+
+user-card {
+    height: auto;
+}
+
+.info-container {
+    display: flex;
+    margin-bottom: .5rem;
+}
+
+.user-info-container {
+    margin-left: .5rem;
+}
+
+.user-info-container ul {
+    padding: 0;
+    list-style: none;
+}
+
+.repos-container article h3 {
+    margin: 0;
+}

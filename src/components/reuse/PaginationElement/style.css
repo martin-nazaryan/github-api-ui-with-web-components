@@ -1,0 +1,22 @@
+:host {
+    display: flex;
+    margin: .5rem 0;
+}
+
+section {
+    display: flex;
+    align-items: center;
+}
+
+button {
+    background-color: transparent;
+    line-height: 1.5;
+    border: 1px solid #d1d5da;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+
+span {
+    margin: 0 0.5rem;
+}

@@ -1,0 +1,11 @@
+article {
+    border: 1px solid #d1d5da;
+    border-radius: .25rem;
+    padding: .75rem;
+    background-color: aliceblue;
+    margin-bottom: .5rem;
+}
+
+article h3 {
+     margin: 0;
+ }

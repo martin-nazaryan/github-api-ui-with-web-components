@@ -1,0 +1,12 @@
+.users-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+user-card {
+    margin: .25rem;
+}
+
+user-card:hover {
+    background-color: #ced4da;
+}

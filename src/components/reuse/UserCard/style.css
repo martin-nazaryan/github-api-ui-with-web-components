@@ -1,0 +1,21 @@
+:host {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid #d1d5da;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+
+.user-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+::slotted(.login) {
+    margin-bottom: 0;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "github-api-ui-with-web-components",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Martin Nazaryan",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
