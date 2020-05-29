@@ -1,6 +1,6 @@
 An awesome app, powered with pure javascript and Web Components
 
-***Instruction***
+***Instructions***
 
 - `cd path/to/repo`
 - `yarn` or `npm install`
